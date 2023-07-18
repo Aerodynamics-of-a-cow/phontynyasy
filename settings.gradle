@@ -1,1 +1,4 @@
+//spring.data.mongodb.database=publisher_register
+//spring.data.mongodb.uri= // paste MongoDB URI here
+//server.port=8000
 rootProject.name = 'phontynyasy'
